@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryan22codder
 - 👀 I’m interested in AI / ML  , Software Dev. , Web Dev.
-- 🌱 I’m currently learning Java and pursuing in  3rd year Comp. Engg.
+- 🌱 B.E. - COMPUTER ENGG 2025.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me aryan22nan@gmail.com
 
